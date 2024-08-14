@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvestige_labs_docs=self.webpackChunkvestige_labs_docs||[]).push([[235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
