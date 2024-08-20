@@ -25,18 +25,6 @@ The Vault contains 3 basic stages (Creation, Waiting and Claim). These stages al
 
 In this stage the user sets up the vault they want to deploy. The user has a choice of four different types of vaults:&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/1.png" alt="" /><figcaption><p>Time Capsule</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/2.png" alt=""/><figcaption><p>Interval</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/3.png" alt=""/><figcaption><p>Halving</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/4.png" alt=""/><figcaption><p>Burn</p></figcaption></figure>
-
-</div>
-
 - **Time Capsule:** The vault will release the full amount of tokens once the specified period has passed.&#x20;
 - **Interval**: This vault will unlock tokens in evenly spaced intervals based on the interval frequency and expiration.
 - **Halving:** The vault will release half of the tokens held every time-step, the number of time-steps are set at the start by the vault deployer, with the final time-step releasing the same amount of tokens as the second-to-final.
@@ -46,8 +34,6 @@ In this stage the user sets up the vault they want to deploy. The user has a cho
 
 In this stage, the vault locks the tokens based on the vault type and expiration date. You can access the vault directly to see when your claim option will be available which will be indicated by the countdown timer. Users can see or share a link to the vault, but there are no other actions available at this stage.
 
-<figure><img src="../.gitbook/assets/Waiting.png" alt=""/><figcaption></figcaption></figure>
-
 ### Claiming Stage
 
 &#x20;In this stage the vault returns all of the tokens it has left to the deployer or the assigned recipient. The user can then claim the tokens directly by initiating the signing process via the **Claim** button. &#x20;
@@ -55,7 +41,3 @@ In this stage, the vault locks the tokens based on the vault type and expiration
 Once "Claimed" the user will see an **All Claimed** button indicating the process is complete.
 
 Note: To avoid any unexpected behaviour users should **NOT** airdrop tokens into vaults but instead launch new ones. Airdroping could result in miss-reported data or loss of tokens.
-
-<figure><img src="../.gitbook/assets/Claimable (2).png" alt=""/><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Claimed.png" alt=""/><figcaption></figcaption></figure>
