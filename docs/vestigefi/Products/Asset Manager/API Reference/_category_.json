@@ -1,0 +1,8 @@
+{
+  "label": "API Reference",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "A detailed reference for the Asset Manager smart contract."
+  }
+} 
