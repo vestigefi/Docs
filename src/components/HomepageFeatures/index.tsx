@@ -23,31 +23,9 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "ChainUI",
-    src: "/screenshots/chainui1.png",
-    url: "/docs/chainui/intro",
-    description: (
-      <>
-        Decentralized deployment framework for Web3 user interfaces. Store your
-        website in a smart contract and serve it to your users, all on-chain.
-      </>
-    ),
-  },
-  {
-    title: "TameQuest",
-    src: "/screenshots/tamequest1.png",
-    url: "/docs/tamequest/intro",
-    description: (
-      <>
-        Fully decentralized pet-battler game. Collect, train and battle your
-        creatures with verifiable randomness using Algorand VRF.
-      </>
-    ),
-  },
-  {
     title: "rug.ninja",
     src: "/screenshots/rugninja1.png",
-    url: "/docs/tamequest/intro",
+    url: "/docs/rugninja/intro",
     description: (
       <>
         Bonding curve token generator. Create your own token in just a few

@@ -72,18 +72,6 @@ const config: Config = {
         },
         {
           type: "doc",
-          docId: "chainui/intro",
-          position: "left",
-          label: "ChainUI",
-        },
-        {
-          type: "doc",
-          docId: "tamequest/intro",
-          position: "left",
-          label: "TameQuest",
-        },
-        {
-          type: "doc",
           docId: "rugninja/intro",
           position: "left",
           label: "rug.ninja",
@@ -142,42 +130,6 @@ const config: Config = {
             {
               label: "Twitter/X",
               href: "https://x.com/rug_ninja",
-            },
-          ],
-        },
-
-        {
-          title: "ChainUI",
-          items: [
-            {
-              label: "Documentation",
-              to: "/docs/chainui/intro",
-            },
-
-            {
-              label: "Website",
-              href: "https://chainui.com",
-            },
-            {
-              label: "Twitter/X",
-              href: "https://x.com/chain_ui",
-            },
-          ],
-        },
-        {
-          title: "TameQuest",
-          items: [
-            {
-              label: "Documentation",
-              to: "/docs/tamequest/intro",
-            },
-            {
-              label: "Testnet MVP",
-              href: "https://testnet.tamequest.com",
-            },
-            {
-              label: "Twitter/X",
-              href: "https://x.com/tame_quest",
             },
           ],
         },

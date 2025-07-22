@@ -18,5 +18,5 @@ A platform for new projects to launch on Algorand.
 ### [API Docs](./api-docs.md)
 Developer documentation for Vestige APIs. 
 
-### [Asset Manager](./asset-manager/Introduction.md)
+### [Asset Manager](./Asset%20Manager/Introduction.md)
 A comprehensive on-chain management system for Algorand Standard Asset (ASA) metadata.
