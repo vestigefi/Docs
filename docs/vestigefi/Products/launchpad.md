@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # Launchpad
 
 **What is Launchpad?** Launchpad is a protocol built by Vestige that allows the creation of IDOs (Initial DAO Offerings) in a decentralised manner on the Algorand blockchain. The main purpose of the protocol is to allow DAO managers to raise capital in the form of ALGOs in exchange for tokens, in a decentralised on-chain manner and without going through intermediares.

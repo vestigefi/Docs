@@ -37,3 +37,15 @@ _Project Lead and Sales_
 _Blockchain Developer_
 \
 **Discord - Swaggelwander#7655**
+
+**Satish Chandra Chowdary Yadlapalli** &#x20;
+\
+_Full Stack Blockchain Developer_
+\
+**LinkedIn -** [**https://www.linkedin.com/in/satishccy/**](https://www.linkedin.com/in/satishccy/)
+\
+**Twitter -** [**https://x.com/SatishCCY**](https://x.com/SatishCCY)
+\
+**Discord - satishccy**
+\
+**GitHub -** [**https://github.com/satishccy**](https://github.com/satishccy)
